@@ -1,3 +1,3 @@
-A static responsive portfolio site
+A simple responsive portfolio site
 
 ![](images/Screenshot_html.png)
