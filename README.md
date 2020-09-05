@@ -1,4 +1,4 @@
-A simple responsive portfolio site
+A simple responsive portfolio site [Version 1 - 2017]
 
 Desktop:
 
